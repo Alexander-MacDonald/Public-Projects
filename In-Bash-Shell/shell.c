@@ -1,5 +1,5 @@
 /*
- * Author(s): aemacdonald
+ * Author(s): Alexander MacDonald
  * Date: 1/27/2022
  * 
  */
